@@ -1,0 +1,37 @@
+body {background-color:rgba(151, 147, 147, 0.534)}
+
+a {
+
+border-style: solid;
+border-color: rgb(167, 97, 97);
+border-width: 2px 2px 2px 2px;
+
+}
+
+.movieDescription {
+padding-bottom: 10px;
+width:560px;
+float:left;
+
+}
+img {
+    width: 25%;
+    height: auto;
+    padding-right: 8px;
+    float:right;
+}
+.poster {
+    float: left;
+}
+.clear {
+    clear: both;
+}
+.list li a {color:rgb(55, 67, 119)
+   
+}
+.div{
+   
+       margin-top: 5px;
+}
+
+
