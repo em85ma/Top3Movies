@@ -3,7 +3,9 @@ body {background-color:rgba(151, 147, 147, 0.534)}
 a {
 
 border-style: solid;
+
 border-color: rgb(167, 97, 97);
+
 border-width: 2px 2px 2px 2px;
 
 }
@@ -34,4 +36,12 @@ img {
        margin-top: 5px;
 }
 
-
+@media only screen and (max-device-width: 768px) {
+.poster {
+    float : none;
+}
+.movieDescription{
+    float:none;
+}
+}
+    
