@@ -43,5 +43,11 @@ img {
 .movieDescription{
     float:none;
 }
+Header{
+    display: flex;
+}
+.movieLink{
+    justify-content: center;
+}
 }
     
