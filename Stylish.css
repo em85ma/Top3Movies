@@ -34,4 +34,9 @@ img {
        margin-top: 5px;
 }
 
-
+@media screen and (max-device-width: 600px) {
+    .poster {
+      float: none;
+      width: 100%;
+    }
+  }
